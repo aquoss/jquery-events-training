@@ -1,3 +1,8 @@
+###Amber Quoss
+<a href='https://github.com/sf-wdi-34/jquery-events-training'></a>
+####My Thoughts
+This is the most challenging assignment I have completed to date. I really had to problem solve, rather than just type code. Although difficult, I really enjoyed slowly clambering my way into clarity. It really helped me grasp jQuery and event listeners.
+
 # Training: DOM Events & jQuery
 
 In this training, you'll practice with some of the most common DOM events in jQuery:
